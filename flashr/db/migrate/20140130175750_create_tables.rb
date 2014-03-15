@@ -40,3 +40,4 @@ class CreateTables < ActiveRecord::Migration
     add_index :cards, :deck_id
   end
 end
+#
